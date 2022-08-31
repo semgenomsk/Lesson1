@@ -1,0 +1,15 @@
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\bin\Debug\net6.0\Example005_Base.exe
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\bin\Debug\net6.0\Example005_Base.deps.json
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\bin\Debug\net6.0\Example005_Base.runtimeconfig.json
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\bin\Debug\net6.0\Example005_Base.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\bin\Debug\net6.0\Example005_Base.pdb
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.csproj.AssemblyReference.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.GeneratedMSBuildEditorConfig.editorconfig
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.AssemblyInfoInputs.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.AssemblyInfo.cs
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.csproj.CoreCompileInputs.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\refint\Example005_Base.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.pdb
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\Example005_Base.genruntimeconfig.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example005_Base\obj\Debug\net6.0\ref\Example005_Base.dll
