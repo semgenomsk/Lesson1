@@ -1,0 +1,15 @@
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\bin\Debug\net6.0\Example004_ConditionIfElse.exe
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\bin\Debug\net6.0\Example004_ConditionIfElse.deps.json
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\bin\Debug\net6.0\Example004_ConditionIfElse.runtimeconfig.json
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\bin\Debug\net6.0\Example004_ConditionIfElse.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\bin\Debug\net6.0\Example004_ConditionIfElse.pdb
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.csproj.AssemblyReference.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.AssemblyInfoInputs.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.AssemblyInfo.cs
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.csproj.CoreCompileInputs.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\refint\Example004_ConditionIfElse.dll
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.pdb
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\Example004_ConditionIfElse.genruntimeconfig.cache
+H:\GekBreans\Project-лекции\Урок 1 - знакомство c#\Lesson1\Example004_ConditionIfElse\obj\Debug\net6.0\ref\Example004_ConditionIfElse.dll
